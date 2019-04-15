@@ -1,0 +1,14 @@
+{
+  "name": "competitive_prog",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "atcoder": "plop atcoder"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "plop": "^2.3.0"
+  }
+}
